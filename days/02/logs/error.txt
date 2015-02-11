@@ -1,0 +1,13 @@
+Ошибка (1024) По умолчанию эта ошибка не ловится. в файле /home/user/WORK/mvctut/mvctut/days/01/index.php в строке 26
+Ошибка (512) А эта ошибка ловится! в файле /home/user/WORK/mvctut/mvctut/days/01/index.php в строке 27
+Исключение [MissingClassException] Невозможно загрузить класс: OopsClass
+Ошибка (512) А эта ошибка ловится! в файле /home/user/WORK/mvctut/mvctut/days/01/index.php в строке 27
+Исключение [MissingClassException] Невозможно загрузить класс: OopsClass
+Ошибка (512) А эта ошибка ловится! в файле /home/user/WORK/mvctut/mvctut/days/01/index.php в строке 27
+Исключение [MissingClassException] Невозможно загрузить класс: OopsClass
+Ошибка (512) А эта ошибка ловится! в файле /home/user/WORK/mvctut/mvctut/days/01/index.php в строке 27
+Исключение [MissingClassException] Невозможно загрузить класс: OopsClass
+Ошибка (512) А эта ошибка ловится! в файле /home/user/WORK/mvctut/mvctut/days/02/index.php в строке 30
+Исключение [App\Exceptions\MissingClassException] Невозможно загрузить класс: OopsClass
+Ошибка (512) А эта ошибка ловится! в файле /home/user/WORK/mvctut/mvctut/days/02/index.php в строке 30
+Исключение [App\Exceptions\MissingClassException] Невозможно загрузить класс: OopsClass
